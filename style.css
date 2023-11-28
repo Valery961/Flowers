@@ -1,0 +1,83 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+
+/* .gallery{
+   text-align: center;
+} */
+
+.gallery h2{
+    font-size: 60px;
+    color: white;
+    font-weight: 900px;
+}
+
+#bigIMG{
+    width: 300px;
+    height: 300px;
+    display: block;
+   margin: auto;
+   object-fit: cover;
+}
+
+.img1{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    
+}
+
+.img2{
+    width: 500px;
+    height: 500px;
+    display: none;
+}
+
+.img3{
+    width: 500px;
+    height: 500px;
+    display: none;
+}
+
+.img4{
+    width: 500px;
+    height: 500px;
+    display: none;
+}
+
+.img5{
+    width: 500px;
+    height: 500px;
+    display: none;
+}
+
+
+
+.family-buttons{
+    width: 375px;
+    height: 70px;
+    background-color: blanchedalmond;
+    position: relative;
+    border-radius: 100px;
+    margin-top: 12px;
+    display: inline-block;
+    text-align: center;
+   
+    
+    
+}
+
+.img-B{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 5px;
+    
+
+  
+}
+
+.img-B:hover{
+    opacity: 0.5;
+}
